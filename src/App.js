@@ -30,13 +30,13 @@ export default function App() {
         <div>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">My Home</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">My About</Link>
             </li>
             <li>
-              <Link to="/dashboard">Dashboard</Link>
+              <Link to="/dashboard">My Dashboard</Link>
             </li>
           </ul>
 
