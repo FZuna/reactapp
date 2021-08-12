@@ -80,7 +80,7 @@ function Home() {
 function About() {
   return (
     <div>
-      <h2>About Page</h2>
+      <h2>About Page Demo today</h2>
     </div>
   );
 }
