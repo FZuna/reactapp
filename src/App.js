@@ -72,7 +72,7 @@ export default function App() {
 function Home() {
   return (
     <div>
-      <h2>Home Fredy Today is friday</h2>
+      <h2>Home Fredy Today is friday ..............</h2>
     </div>
   );
 }
